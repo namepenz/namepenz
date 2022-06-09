@@ -2,6 +2,11 @@
 
 Email:
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:namepenz@gmail.com)](mailto:namepenz@gmail.com)
+ 
+ 고등학생 때 만들어 본 코로나 웹사이트:
+ 
+ https://namepenz.neocities.org/
+ 
 
 Major: 스마트IoT
 
